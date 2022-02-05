@@ -57,12 +57,57 @@ Requirements
 Grading
 -------
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Class participation | 15 |
-| Written responses | 40 |
-| Oral presentation of portfolio | 14 |
-| Portfolio | 21 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written responses
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation of portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*Unless we are specifically doing a task that requires individual access to the internet, no electronic devices are allowed during class time.
 

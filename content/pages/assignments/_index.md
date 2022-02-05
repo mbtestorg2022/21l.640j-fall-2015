@@ -14,15 +14,151 @@ Each of you will choose a topic you would like to research throughout the semest
 Weekly Homework Assignments
 ---------------------------
 
-| ASSIGNMENT # | TOPICS |
-| --- | --- |
-| [Homework Assignment 1 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses1) |  {{< br >}}{{< br >}} _Ghosts of Spain: Travels Through Spain and Its Silent Past_ {{< br >}}{{< br >}} Ibañez Martín {{< br >}}{{< br >}}  |
-| [Homework Assignment 2 (PDF)  {{< br >}}]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses2) | Capítulo 3 en _Ghosts of Spain_ |
-| [Homework Assignment 3 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses3) | _El dueño del secreto_ |
-| [Homework Assignment 4 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses4) | Film: ¿_Qué he hecho para merecer esto?_ |
-|  {{< br >}}{{< br >}} [Homework Assignment 5 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses5) {{< br >}}{{< br >}} [Essay on _Castillos de Cartón_ (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_essay_cas) {{< br >}}{{< br >}}  | _Castillos de cartón_ pp. 1–87 |
-| [Homework Assignment 6 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses6) |  {{< br >}}{{< br >}} _Castillos de cartón_ {{< br >}}{{< br >}} Film: _Mujeres al borde de un ataque de nervios_ {{< br >}}{{< br >}}  |
-| [Homework Assignment 7 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses7) |  {{< br >}}{{< br >}} _Castillos de cartón_ {{< br >}}{{< br >}} 3 entradas bibliográficas {{< br >}}{{< br >}}  |
-| [Homework Assignment 8 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses8) |  {{< br >}}{{< br >}} "Esta noche en el parque" {{< br >}}{{< br >}} Capítulo 7 en _Ghosts of Spain_ {{< br >}}{{< br >}}  |
-| [Homework Assignment 9 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses9) |  {{< br >}}{{< br >}} "La noche dividida" {{< br >}}{{< br >}} Film: _Volver_ {{< br >}}{{< br >}}  |
-| [Homework Assignment 10 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses10) |  {{< br >}}{{< br >}} "De la noche al alba" y "La noche que ilumina" {{< br >}}{{< br >}} Film: _Todo sobre mi madre_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENT #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework Assignment 1 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses1)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Ghosts of Spain: Travels Through Spain and Its Silent Past_
+
+Ibañez Martín
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework Assignment 2 (PDF)  
+]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses2)
+{{< tdclose >}}
+{{< tdopen >}}
+Capítulo 3 en _Ghosts of Spain_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework Assignment 3 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses3)
+{{< tdclose >}}
+{{< tdopen >}}
+_El dueño del secreto_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework Assignment 4 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses4)
+{{< tdclose >}}
+{{< tdopen >}}
+Film: ¿_Qué he hecho para merecer esto?_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Homework Assignment 5 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses5)
+
+[Essay on _Castillos de Cartón_ (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_essay_cas)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+_Castillos de cartón_ pp. 1–87
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework Assignment 6 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses6)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Castillos de cartón_
+
+Film: _Mujeres al borde de un ataque de nervios_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework Assignment 7 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses7)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Castillos de cartón_
+
+3 entradas bibliográficas
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework Assignment 8 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses8)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Esta noche en el parque"
+
+Capítulo 7 en _Ghosts of Spain_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework Assignment 9 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses9)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"La noche dividida"
+
+Film: _Volver_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework Assignment 10 (PDF)]({{< baseurl >}}/resources/mit21l_640jf15_hw_ses10)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"De la noche al alba" y "La noche que ilumina"
+
+Film: _Todo sobre mi madre_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
