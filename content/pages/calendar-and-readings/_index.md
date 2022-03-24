@@ -155,7 +155,7 @@ Artículos sobre Almódovar:
 
 ### Repasar
 
-*   La nueva constitución-in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[English (PDF)](http://www.congreso.es/constitucion/ficheros/c78/cons_ingl.pdf) and en [español](http://noticias.juridicas.com/base_datos/Admin/constitucion.tp.html)
+*   La nueva constitución-in [English (PDF)](http://www.congreso.es/constitucion/ficheros/c78/cons_ingl.pdf) and en [español](http://noticias.juridicas.com/base_datos/Admin/constitucion.tp.html)
 *   Bonsaidelainformacion. "[CONSTITUCIÓN-ESPAÑA: Consenso… con reclamo de cambiosas](https://bonsaidelainformacion.wordpress.com/2008/12/05/constitucion-espana-consenso%E2%80%A6-con-reclamo-de-cambios/)." _El Bonsai de la información_. (2008).
 *   Bueno, Gustavo. "[Ante la reforma de la Constitución de 1978](http://www.nodulo.org/ec/2004/n025p02.htm)." _El Catoblepas: revista del presente_ 25, no. 2 (2004): 2.
 
